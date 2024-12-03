@@ -14,6 +14,7 @@ import siteKellyMadison
 import siteTeamSkeet
 import sitePorndoePremium
 import siteLegalPorno
+import oopsfamily
 
 searchSites = [None] * 261
 searchSites[1] = ["Blacked com","Blacked","https://www.blacked.com","https://www.blacked.com/search?q="]
@@ -277,6 +278,7 @@ searchSites[257] = ["Scambisti Maturi","Scambisti Maturi", "https://porndoepremi
 searchSites[258] = ["STG","STG", "https://porndoepremium.com","https://porndoepremium.com/videos?keywords="]
 searchSites[259] = ["XXX Omas","XXX Omas", "https://porndoepremium.com","https://porndoepremium.com/videos?keywords="]
 searchSites[260] = ["LegalPorno","LegalPorno","https://www.legalporno.com","https://www.legalporno.com/search/?query="]
+searchSites[260] = ["oopsfamily", "oopsfamily", "https://www.oopsfamily.com", "https://www.oopsfamily.com/search?query="]
 
 def getSearchBaseURL(siteID):
     return searchSites[siteID][2]
