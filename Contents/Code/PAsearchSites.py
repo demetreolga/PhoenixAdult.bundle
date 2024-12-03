@@ -14,11 +14,9 @@ import siteKellyMadison
 import siteTeamSkeet
 import sitePorndoePremium
 import siteLegalPorno
-import siteVipissy
-import siteWetAndPissy
-import sitePeeOnHer
-import teenmegaworld
+import oopsfamily
 
+searchSites = [None] * 261
 searchSites[1] = ["Blacked com","Blacked","https://www.blacked.com","https://www.blacked.com/search?q="]
 searchSites[0] = ["Blackedraw com","BlackedRaw","https://www.blackedraw.com","https://www.blackedraw.com/search?q="]
 searchSites[2] = ["Brazzers.com","Brazzers","http://www.brazzers.com","http://www.brazzers.com/search/all/?q="]
@@ -279,11 +277,8 @@ searchSites[256] = ["Reife Swinger","Reife Swinger", "https://porndoepremium.com
 searchSites[257] = ["Scambisti Maturi","Scambisti Maturi", "https://porndoepremium.com","https://porndoepremium.com/videos?keywords="]
 searchSites[258] = ["STG","STG", "https://porndoepremium.com","https://porndoepremium.com/videos?keywords="]
 searchSites[259] = ["XXX Omas","XXX Omas", "https://porndoepremium.com","https://porndoepremium.com/videos?keywords="]
-searchSites[260] = ["LegalPorno", "LegalPorno", "https://www.legalporno.com", "https://www.legalporno.com/search/?query="]
-searchSites[261] = ["Vipissy","Vipissy","https://www.vipissy.com","https://www.vipissy.com/updates"]
-searchSites[262] = ["WetAndPissy","WetAndPissy","https://www.wetandpissy.com","https://www.wetandpissy.com/updates"]
-searchSites[263] = ["PeeOnHer","PeeOnHer","https://www.peeonher.com","https://www.peeonher.com/updates"]
-searchSites[264] = ["TeenMegaWorld", "TeenMegaWorld", "https://teenmegaworld.net", "https://teenmegaworld.net/trailers/?search="]
+searchSites[260] = ["LegalPorno","LegalPorno","https://www.legalporno.com","https://www.legalporno.com/search/?query="]
+searchSites[260] = ["oopsfamily", "oopsfamily", "https://www.oopsfamily.com", "https://www.oopsfamily.com/search?query="]
 
 def getSearchBaseURL(siteID):
     return searchSites[siteID][2]
